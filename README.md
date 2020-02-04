@@ -1,7 +1,7 @@
 # Intermediate Arduino
 Assignments: LED blink revisited, Hello LCD, LCD backpack, Photointerupters, Potentiometers, Motor Control
 
-##LED blink revisited
+## LED blink revisited
 
 What it does: Makes an LED fade in and out using a function
 
