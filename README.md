@@ -11,7 +11,7 @@ Struggles: It was hard for me to use analogWrite instead of digitalWrite, and to
 
 Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/led_blink-revisited/led_blink-revisited.ino
 
-Fritzing:
+Fritzing: ![LED blink fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/blinkscreenshotv2.JPG)
 
 
 ## Hello LCD
