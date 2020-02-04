@@ -26,3 +26,55 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/Hello%20LCD/
 
 Fritzing:
 
+
+## LCD Backpack
+
+What it does: Uses an LCD backpack to control the brightness of the LCD and to simplify all the wiring
+
+What I learned: How to wire an LCD backpack, and use modified coding to code it
+
+Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/LCD%20backpack/LCD%20backpack.ino
+
+Fritzing:
+
+
+## Photointerrupters
+
+What it does: The light is on, but when you put something in between the photointerrupter's legs, the light turns off because it has disrupted the flow
+
+What I learned: How to wire and code a photointerrupter
+
+Struggles: I'm not very good at booleans at all and I had to use one for this assignment
+
+Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/photointerupter/photointerupter.ino
+
+Fritzing:
+
+
+## Potentiometers
+
+What it does: Uses a potentiometer to have its value shown on the LED screen, and controling the brightness. So it gets brighter and drarker, and show how bright/dark it is
+
+What I learned: How to code and wire a potentiometer
+
+Struggles: The wiring was a little hard on the assignment, but the coding was pretty straightforward
+
+Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/potentimeters2/potentimeters2.ino
+
+Fritzing:
+
+
+## Motor Control
+
+What it does: Controls the speed and direction of the motor based on the potentiometer
+
+What I learned: How to wire a diode and transister, and control a motor with a potentiometer
+
+Struggles: If it didn't work, you had to figure out if the diode was the wrong way, and the transistor, or if one of them was just bad, or if your wiring was wrong, or if your coding was wrong. There were just a lot of variables
+
+Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/motor_control/Motor_control.ino
+
+Fritzing:
+
+
+
