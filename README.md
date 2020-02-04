@@ -14,6 +14,8 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/led_blink-re
 Fritzing: 
 
 ![LED blink fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/blinkscreenshotv2.JPG)
+Credit: Violet C-W 
+
 
 
 ## Hello LCD
@@ -28,6 +30,9 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/Hello%20LCD/
 
 Fritzing:
 
+![Hello LCD fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcd_wiring_no_backpack.JPG)
+Credit: Violet C-W 
+
 
 ## LCD Backpack
 
@@ -39,6 +44,8 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/LCD%20backpa
 
 Fritzing:
 
+![LCD Backpack fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcdbackpackwiring.JPG)
+Credit: Violet C-W 
 
 ## Photointerrupters
 
@@ -51,6 +58,10 @@ Struggles: I'm not very good at booleans at all and I had to use one for this as
 Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/photointerupter/photointerupter.ino
 
 Fritzing:
+
+![Photointerrupters fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/photointerrupterwiring.JPG)
+Credit: Violet C-W 
+
 
 
 ## Potentiometers
@@ -65,6 +76,10 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/potentimeter
 
 Fritzing:
 
+![Potentiometers fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/potentiowiring.JPG)
+Credit: Violet C-W 
+
+
 
 ## Motor Control
 
@@ -77,6 +92,10 @@ Struggles: If it didn't work, you had to figure out if the diode was the wrong w
 Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/motor_control/Motor_control.ino
 
 Fritzing:
+
+![motor control fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/motorcontrolwiring.JPG)
+Credit: Violet C-W 
+
 
 
 
