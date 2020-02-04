@@ -77,6 +77,7 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/potentimeter
 Fritzing:
 
 ![Potentiometers fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/potentiowiring.JPG)
+
 Credit: Violet C-W 
 
 
