@@ -31,7 +31,7 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/Hello%20LCD/
 Fritzing:
 
 ![Hello LCD fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcd_wiring_no_backpack.JPG)
-Credit: Violet C-W 
+Credit: Paul B.
 
 
 ## LCD Backpack
@@ -45,7 +45,7 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/LCD%20backpa
 Fritzing:
 
 ![LCD Backpack fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/lcdbackpackwiring.JPG)
-Credit: Violet C-W 
+Credit: Paul B.
 
 ## Photointerrupters
 
@@ -77,7 +77,7 @@ Code: https://github.com/aseidma21/Intermediate-arduino/blob/master/potentimeter
 Fritzing:
 
 ![Potentiometers fritzing](https://github.com/vcraghe32/Intermediate_Arduino/raw/master/Images/potentiowiring.JPG)
-Credit: Violet C-W 
+Credit: Alden D.
 
 
 
