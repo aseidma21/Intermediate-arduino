@@ -1,3 +1,6 @@
+#include <LiquidCrystal_I2C.h>
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+const int ledPin = 9;  //pin 9 has PWM funtion
 const int bluePin = A0;
 int bright;
 int display;
@@ -19,7 +22,7 @@ void loop()
   analogWrite(ledPin, bright);      	//Send PWM value to led
   delay(100);	
  display = map(bright, 0, 255, 0, 10);
-	lcd.print(display);
+	lcd.print(display); //prints the value to the LCD screen
 	delay(500);
 }
 
