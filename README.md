@@ -66,7 +66,7 @@ Credit: Violet C-W
 
 ## Potentiometers
 
-What it does: Uses a potentiometer to have its value shown on the LED screen, and controling the brightness. So it gets brighter and drarker, and show how bright/dark it is
+What it does: Uses a potentiometer to have its value shown on the LED screen, and controlling the brightness. So it gets brighter and darker, and show how bright/dark it is
 
 What I learned: How to code and wire a potentiometer
 
