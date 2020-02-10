@@ -9,13 +9,13 @@ void setup()
 }
 void loop()
 {
- Serial.println(photostate); //prints times interrupted to monitor
+ Serial.println(photostate); //prints out the variable boolean
  digitalWrite(6, photostate); //prints on/off state to LED
  delay(10);
 }
 void photo()
 {
- photostate = !photostate;
+ photostate = !photostate; //interrupts teh function(and makes it stop)
 }
 
 
