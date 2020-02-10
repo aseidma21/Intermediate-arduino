@@ -1,5 +1,5 @@
-const int potpin = A5;
-const int diodepin = A4;
+const int potpin = A5; //potentiometer data pin
+const int diodepin = A4; //diode data pin
 int value;
 int speed;
 void setup()
