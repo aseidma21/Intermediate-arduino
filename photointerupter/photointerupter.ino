@@ -2,15 +2,15 @@ boolean photostate = 0;
 void setup()
 {
  Serial.begin(9600);
- pinMode(2,INPUT_PULLUP);
+ pinMode(2,INPUT_PULLUP); //holds photointerrupter at logic voltage until interrupted
  pinMode(6,OUTPUT);
- attachInterrupt(digitalPinToInterrupt(2), photo, RISING);
- //attachInterrupt(digitalPinToInterrupt(2), picture, FALLING);
+ attachInterrupt(digitalPinToInterrupt(2), photo, RISING); //tells photointerrupter to interrupt when pin goes low to high
+ //attachInterrupt(digitalPinToInterrupt(2), picture, FALLING); //tells photointerrupter to interrupt when pin goes high to low
 }
 void loop()
 {
- Serial.println(photostate);
- digitalWrite(6, photostate);
+ Serial.println(photostate); //prints times interrupted to monitor
+ digitalWrite(6, photostate); //prints on/off state to LED
  delay(10);
 }
 void photo()
